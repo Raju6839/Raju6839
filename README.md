@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raju6839
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Java Developer
 - 🌱 I’m currently learning new somethings
 - 💞️ I’m looking to collaborate on reputation company 
 - 📫 How to reach me ...
